@@ -1,0 +1,17 @@
+.user {
+    margin: 30px auto ;
+    border-collapse: collapse ;
+}
+td {
+    width: 200px ;
+    text-align: center ;
+    border: 1px solid darkgrey ;
+    padding: 10px ;
+}
+.user_head {
+    background: aliceblue ;
+}
+.user_info-text {
+    border: none ;
+    outline: none ;
+}
